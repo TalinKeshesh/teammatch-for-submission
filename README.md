@@ -2,7 +2,7 @@
 
 ## Final Presentation
 
-**[Final Presentation](./final%20presentation/)** — The final presentation slides and demo video are located in this folder.
+**[Final Presentation](./final%20presentation/)** — The final presentation slides are located in this folder.
 
 ## [Click Here to Watch Presentaion Slides on YouTube](https://youtu.be/OD01qWfb_34?si=R-QR9_beUZgB_Gnn)
 
